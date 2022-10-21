@@ -1,4 +1,4 @@
-In this Repo, You will find practical implimentation of basic operations of numpy library.
+In this Repo, You will find practical implimentation of differant operations of numpy library.
 
 NumPy stands for Numerical Python.
 NumPy is a Python library used for working with arrays.
